@@ -1,0 +1,31 @@
+body
+{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5925832e03596efb6d4b502a/1552467575287-2JMW8W2J3EJFYMP2QZQR/DRG_Wallpaper_GlacialStrata.jpg?format=2500w);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p
+{
+    background-color: black;
+    color: white;
+    font-family: arial; 
+    font-size: 12pt;
+}
+
+a
+{
+    background-color: black;
+    color: white;
+    font-family: arial; 
+    font-size: 12pt;
+}
+
+a:hover
+{
+    background-color: black;
+    color: white;
+    font-family: arial; 
+    font-size: 22pt;
+}
